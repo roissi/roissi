@@ -16,4 +16,4 @@ tools
 
 contact
 
-`twitter` : @roissi / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `mail` : cyrildegraeve@gmail.com
+`twitter` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `mail` : cyrildegraeve@gmail.com
