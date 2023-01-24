@@ -1,11 +1,19 @@
-### Hello Worldz 👋
+### hello Worldz 👋
 
-💻 Web Developper
+💻 web developper
 
-Back-end
+back-end
 
-`Node.js` / `Express` / `EJS` / `PostgreSQL` / `Sqitch` / `Sequelize`
+`node.js` / `express` / `ejs` / `postgresql` / `sqitch` / `sequelize`
 
-Back-end
+front-end
 
-`HTML` / `CSS` / `Javascript`
+`html` / `css` / `javascript`
+
+tools
+
+`vscode` / `github` / `nmp` / `pgadmin` / `slack` / `discord' / 'telegram'
+
+contact
+
+twitter : @roissi /lLinkedin : cyril-de-graeve / mail : cyrildegraeve@gmail.com
