@@ -12,7 +12,7 @@ front-end
 
 tools
 
-`vscode` / `github` / `nmp` / `pgadmin` / `slack` / `discord' / 'telegram'
+`vscode` / `github` / `npm` / `pgadmin` / `slack` / `discord' / 'telegram'
 
 contact
 
