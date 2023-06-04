@@ -2,7 +2,7 @@
 
 
 💻 web developper<br/>
-✅ TP [DWWM](https://www.francecompetences.fr/recherche/rncp/31114/) (développeur web & web mobile)
+✅ TP <a href="https://www.francecompetences.fr/recherche/rncp/31114/" target="_blank">DWWM</a> (développeur web & web mobile)
 
 
 back-end
