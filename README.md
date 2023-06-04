@@ -15,7 +15,7 @@ front-end
 
 tools
 
-`vscode` / `github` / `npm` / `pgadmin` / `slack` / `discord` / `telegram`
+`vscode` / `github` / `vercel` / `npm` / `pgadmin` / `slack` / `discord` / `telegram`
 
 contact
 
