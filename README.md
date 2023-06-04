@@ -1,7 +1,7 @@
 ### hello Worldz 👋
 
 
-💻 web developper<br/>
+💻 fullstack javascript developper<br/>
 ✅ TP [DWWM](https://www.francecompetences.fr/recherche/rncp/31114/) (développeur web & web mobile)
 
 
