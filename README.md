@@ -1,7 +1,6 @@
 ### hello Worldz 👋
 
 💻 web developper
-
 🎓 TP DWWM (développeur web & web mobile)
 
 back-end
