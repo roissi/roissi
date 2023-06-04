@@ -4,7 +4,7 @@
 
 back-end
 
-`node.js` / `express` / `ejs` / `postgresql` / `sqitch` / `sequelize`
+`node.js` / `express` / `postgresql` / `sqitch` / `sequelize` / `ejs` 
 
 front-end
 
