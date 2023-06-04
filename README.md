@@ -8,7 +8,7 @@ back-end
 
 front-end
 
-`html` / `css` / `javascript`
+`html` / `css` / `javascript` / `react` / `next.js` / `chakra ui`
 
 tools
 
