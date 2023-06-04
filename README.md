@@ -1,9 +1,8 @@
 ### hello Worldz 👋
 
 
-💻 web developper
-
-🎓 TP DWWM (développeur web & web mobile)
+💻 web developper<br/>
+✅ TP [DWWM](https://www.francecompetences.fr/recherche/rncp/31114/) (développeur web & web mobile)
 
 
 back-end
@@ -18,6 +17,6 @@ tools
 
 `vscode` / `github` / `npm` / `pgadmin` / `slack` / `discord` / `telegram`
 
-contact
+🌐 contact
 
 `twitter` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `mail` : cyrildegraeve@gmail.com
