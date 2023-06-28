@@ -2,7 +2,7 @@
 
 
 💻 fullstack javascript developper<br/>
-🔥 check my [Portfolio](https://portfolio-roissi.vercel.app) => [French](https://portfolio-roissi.vercel.app/fr) or [English](https://portfolio-roissi.vercel.app/en)<br/>
+🔥 check my [portfolio](https://portfolio-roissi.vercel.app) => [french](https://portfolio-roissi.vercel.app/fr) or [english](https://portfolio-roissi.vercel.app/en)<br/>
 ✅ TP [DWWM](https://www.francecompetences.fr/recherche/rncp/31114/) (développeur web & web mobile)
 
 
