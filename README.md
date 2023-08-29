@@ -12,11 +12,11 @@ back-end
 
 front-end
 
-`html` / `css` / `javascript` / `react` / `next.js`
+`html` / `css` / `javascript` / `react` / `next.js` / `framer` / `bootstrap` / `chakra ui`
 
 tools
 
-`vscode` / `github` / `vercel` / `npm` / `pgadmin` / `slack` / `discord` / `telegram`
+`vscode` / `github` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `discord` / `telegram`
 
 contact
 
