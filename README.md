@@ -20,4 +20,4 @@ tools
 
 contact
 
-`twitter` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `mail` : cyrildegraeve@gmail.com
+`X (twitter)` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `bluesky` : [@roissi.bsky.social](https://bsky.app/profile/roissi.bsky.social) / `mail` : cyrildegraeve@gmail.com
