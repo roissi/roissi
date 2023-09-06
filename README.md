@@ -20,4 +20,4 @@ tools
 
 contact
 
-`X (twitter)` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `bluesky` : [@roissi.bsky.social](https://bsky.app/profile/roissi.bsky.social) / `mail` : cyrildegraeve@gmail.com
+`Malt` : [cyril de graeve](https://www.malt.fr/profile/cyrildegraeve) / `X (twitter)` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `bluesky` : [@roissi.bsky.social](https://bsky.app/profile/roissi.bsky.social) / `mail` : cyrildegraeve@gmail.com
