@@ -13,7 +13,7 @@ back-end
 
 front-end
 
-`html` / `css` / `javascript` / `react` / `next.js` / `framer` / `bootstrap` / `chakra ui`
+`html` / `css` / `javascript` / `react` / `next.js` / `framer` / `bootstrap` / `panda css` / `chakra ui`
 
 tools
 
