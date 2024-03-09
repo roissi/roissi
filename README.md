@@ -2,6 +2,7 @@
 
 
 💻 fullstack javascript developper<br/>
+🌳 see my [linktree](https://linktr.ee/cyrildegraeve)
 🔥 check my [portfolio](https://www.cyrildegraeve.dev/) => [french](https://www.cyrildegraeve.dev/fr) or [english](https://www.cyrildegraeve.dev/en)<br/>
 👀 check my offers [hyper-free](https://hyper-free.cyrildegraeve.dev/) => [french](https://hyper-free.cyrildegraeve.dev/fr) or [english](https://hyper-free.cyrildegraeve.dev/en)<br/>
 🚀 contact me on [malt](https://www.malt.fr/profile/cyrildegraeve)<br/>
