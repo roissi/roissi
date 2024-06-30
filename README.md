@@ -19,7 +19,7 @@ front-end
 
 tools
 
-`vscode` / `github` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `discord` / `telegram`
+`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `discord` / `telegram`
 
 contact
 
