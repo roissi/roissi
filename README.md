@@ -11,15 +11,15 @@
 
 back-end
 
-`node.js` / `express` / `postgresql` / `sqitch` / `sequelize` / `ejs` 
+`node.js` / `express` / `postgresql` / `sql` / `prisma` / `sequelize` / `drizzle` / `ejs` 
 
 front-end
 
-`html` / `css` / `javascript` / `react` / `next.js` / `framer` / `tailwind` / `bootstrap` / `panda css` / `chakra ui`
+`html` / `css` / `javascript` / `react` / `next.js` / `framer-motion` / `tailwind` / `bootstrap` / `panda css` / `chakra ui`
 
 tools
 
-`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `discord` / `telegram`
+`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `jira` / `discord` / `telegram`
 
 contact
 
