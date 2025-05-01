@@ -11,7 +11,7 @@
 
 back-end
 
-`node.js` / `express` / `postgresql` / `sql` / `prisma` / `sequelize` / `drizzle` / `ejs` 
+`node.js` / `express` / `postgresql` / `mysql` / `prisma` / `sequelize` / `drizzle` / `ejs` 
 
 front-end
 
@@ -19,8 +19,8 @@ front-end
 
 tools
 
-`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `slack` / `jira` / `discord` / `telegram`
+`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `mysql Wwrkbench ` / `slack` / `jira` / `discord` / `telegram`
 
 contact
 
-`malt` : [cyril de graeve](https://www.malt.fr/profile/cyrildegraeve) / `X (twitter)` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `bluesky` : [@roissi.bsky.social](https://bsky.app/profile/roissi.bsky.social) / `mail` : cyrildegraeve@gmail.com
+`malt` : [cyril de graeve](https://www.malt.fr/profile/cyrildegraeve) / `X (twitter)` : [@roissi](https://twitter.com/roissi) / `linkedin` : [cyril-de-graeve](https://www.linkedin.com/in/cyril-de-graeve/) / `bluesky` : [@roissi.bsky.social](https://bsky.app/profile/roissi.bsky.social) / `mail` : contact@cyrildegraeve.dev
