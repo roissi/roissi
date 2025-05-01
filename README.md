@@ -17,9 +17,13 @@ front-end
 
 `html` / `css` / `javascript` / `react` / `next.js` / `framer-motion` / `tailwind` / `bootstrap` / `panda css` / `chakra ui`
 
+devops
+
+`nginx` / `apache` / `pm2` / `ci / cd` / `docker` / `git` / `aws`
+
 tools
 
-`vscode` / `github` / `docker` / `vercel` / `npm` / `supabase` / `pgadmin` / `mysql workbench ` / `slack` / `jira` / `discord` / `telegram`
+`vscode` / `github` / `vercel` / `npm` / `supabase` / `pgadmin` / `mysql workbench ` / `slack` / `jira` / `discord` / `telegram`
 
 contact
 
